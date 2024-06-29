@@ -4,6 +4,7 @@ Projeto para disciplina de Interoperabilidade
 
 # VARIÁVEIS DE AMBIENTE
 
+````
 API_KEY=
 AUTH_DOMAIN=
 DATABASE_URL=
@@ -12,6 +13,7 @@ STORAGE_BUCKET=
 MESSAGE_SENDER_ID=
 APP_ID=
 MEASUREMENT_ID=
+````
 
 # PASSOS PARA EXECUTAR
 
