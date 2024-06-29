@@ -23,7 +23,7 @@ function App() {
   return (
     <div className="container">
       <div>
-        Potenciometro: {potenciometro} | Luminosidade: {luminosidade}
+        Potenciometro: {potenciometro} | Luminosidade: {luminosidade} | Luz {((potenciometro - luminosidade) > 0) ? 'ligada' : 'desligada'}
       </div>
     </div>
   )
